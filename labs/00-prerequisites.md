@@ -21,6 +21,19 @@ A ready local checkout of the training repository and verified local tools.
 
 ## Steps
 
+00. Install node.js & npm
+
+   ```bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+   source ~/.bashrc
+   nvm install --lts
+   ```
+Verification Steps
+
+```bash
+   node -v
+   npm -v
+   ```
 
 1. Fork or clone the repository.
 
