@@ -16,7 +16,11 @@ Complete Lab 01. The app lives inside the `app/` directory.
 
 
 1. Create `.github/workflows/nodejs-ci.yml`.
-
+```bash
+   cd .github/workflows
+   vi nodejs-ci.yml
+   ```
+   Paste the below
    ```yaml
    name: Node.js CI
 
