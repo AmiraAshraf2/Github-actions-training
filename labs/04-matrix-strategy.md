@@ -74,7 +74,3 @@ The Actions UI shows separate job runs for Node.js 20, 22, and 24.
 | Matrix value is empty | Check the expression: `${{ matrix.node-version }}`. |
 | Too many jobs | Keep the matrix small and purposeful. |
 
-
-## Cleanup or next step
-
-Compare with `solutions/workflows/04-matrix-ci.yml`.
