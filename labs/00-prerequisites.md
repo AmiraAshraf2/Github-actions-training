@@ -35,10 +35,14 @@ Verification Steps
    npm -v
    ```
 
-1. Fork or clone the repository.
+1. Fork and clone the repository
+
+- Go to the original repository in your browser: https://github.com/davabdallah/Github-actions-training
+- Click the **Fork** button in the top-right corner to create a copy under your own GitHub account.
+- Once the fork is created, clone your personal fork to your local machine **(replace <your-github-username> with your actual GitHub username)**:
 
    ```bash
-   git clone https://github.com/davabdallah/Github-actions-training.git
+   git clone https://github.com/<your-github-username>/Github-actions-training.git
    cd Github-actions-training
    ```
 
